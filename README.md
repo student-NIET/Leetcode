@@ -24,4 +24,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/student-NIET/Leetcode/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/student-NIET/Leetcode/tree/master/1025-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/student-NIET/Leetcode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/student-NIET/Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/student-NIET/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
