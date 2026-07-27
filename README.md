@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/student-NIET/Leetcode/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/student-NIET/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/student-NIET/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/student-NIET/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/student-NIET/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/student-NIET/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/student-NIET/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/student-NIET/Leetcode/tree/master/0217-contains-duplicate) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/student-NIET/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/student-NIET/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/student-NIET/Leetcode/tree/master/0169-majority-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/student-NIET/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
