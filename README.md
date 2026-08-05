@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/student-NIET/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/student-NIET/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/student-NIET/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/student-NIET/Leetcode/tree/master/0217-contains-duplicate) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/student-NIET/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/student-NIET/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/student-NIET/Leetcode/tree/master/0179-largest-number) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/student-NIET/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/student-NIET/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/student-NIET/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/student-NIET/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/student-NIET/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
