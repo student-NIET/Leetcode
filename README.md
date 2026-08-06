@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/student-NIET/Leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/student-NIET/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/student-NIET/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/student-NIET/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/student-NIET/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/student-NIET/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/student-NIET/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/student-NIET/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/student-NIET/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/student-NIET/Leetcode/tree/master/0217-contains-duplicate) |
+| [0904-fruit-into-baskets](https://github.com/student-NIET/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/student-NIET/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/student-NIET/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/student-NIET/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/student-NIET/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/student-NIET/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/student-NIET/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/student-NIET/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/student-NIET/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/student-NIET/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
