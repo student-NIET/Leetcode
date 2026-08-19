@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/student-NIET/Leetcode/tree/master/0050-powx-n) |
 | [1025-divisor-game](https://github.com/student-NIET/Leetcode/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/student-NIET/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/student-NIET/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
