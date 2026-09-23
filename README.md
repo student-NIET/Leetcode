@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/student-NIET/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/student-NIET/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/student-NIET/Leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/student-NIET/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/student-NIET/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/student-NIET/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/student-NIET/Leetcode/tree/master/0283-move-zeroes) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/student-NIET/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/student-NIET/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/student-NIET/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/student-NIET/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/student-NIET/Leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/student-NIET/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/student-NIET/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/student-NIET/Leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/student-NIET/Leetcode/tree/master/0189-rotate-array) |
 | [1025-divisor-game](https://github.com/student-NIET/Leetcode/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
