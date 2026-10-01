@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/student-NIET/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/student-NIET/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/student-NIET/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/student-NIET/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/student-NIET/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/student-NIET/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/student-NIET/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/student-NIET/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/student-NIET/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/student-NIET/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/student-NIET/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/student-NIET/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/student-NIET/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/student-NIET/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/student-NIET/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/student-NIET/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/student-NIET/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/student-NIET/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/student-NIET/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/student-NIET/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/student-NIET/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/student-NIET/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/student-NIET/Leetcode/tree/master/0229-majority-element-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/student-NIET/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/student-NIET/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/student-NIET/Leetcode/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
