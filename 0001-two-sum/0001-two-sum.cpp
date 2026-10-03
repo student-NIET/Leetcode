@@ -3,16 +3,13 @@ public:
     vector<int> twoSum(vector<int>& nums, int target) {
         
         int n = nums.size();
-        
 
-        map<int,int>mp;
+        map<int, int>mp;
 
-        for(int i = 0; i < n; i++)
-        {
-            int remaining = target - nums[i];
-            if(mp.count(remaining))
-            {
-                return {mp[remaining], i};
+        for(int i = 0; i < n; i++){
+            int rem = target - nums[i];
+            if(mp.count(rem)){
+                return {mp[rem], i};
             }
             mp[nums[i]] = i;
         }
