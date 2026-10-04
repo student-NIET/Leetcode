@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/student-NIET/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/student-NIET/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/student-NIET/Leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/student-NIET/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/student-NIET/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/student-NIET/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/student-NIET/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/student-NIET/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/student-NIET/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/student-NIET/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/student-NIET/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/student-NIET/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/student-NIET/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/student-NIET/Leetcode/tree/master/0525-contiguous-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/student-NIET/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/student-NIET/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/student-NIET/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/student-NIET/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/student-NIET/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/student-NIET/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
@@ -142,11 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/student-NIET/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/student-NIET/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/student-NIET/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/student-NIET/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/student-NIET/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/student-NIET/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/student-NIET/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -244,4 +249,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/student-NIET/Leetcode/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/student-NIET/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/student-NIET/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/student-NIET/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
